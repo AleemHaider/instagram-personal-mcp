@@ -1,5 +1,7 @@
 # instagram-personal-mcp
 
+![Demo](docs/demo.gif)
+
 A [Model Context Protocol](https://modelcontextprotocol.io) server that wraps
 [`instagrapi`](https://github.com/subzeroid/instagrapi) so Claude (or any MCP
 client) can read, engage, and DM from a **personal** Instagram account — no
